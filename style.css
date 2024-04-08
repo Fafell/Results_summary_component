@@ -37,7 +37,7 @@
 
 /*********** main section ***********/
 body {
-    height: 100dvh;
+    height: 100svh;
     display: grid;
     place-content: center;
     background-color: var(--ncl-White);
