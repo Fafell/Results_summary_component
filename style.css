@@ -211,8 +211,8 @@ button:active {
 
 @media (width < 741px) {
     main {
-        width: 100vw;
-        height: 100vh;
+        width: 100svw;
+        height: 100svh;
     }
     
     .container {
